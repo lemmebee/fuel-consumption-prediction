@@ -1,2 +1,2 @@
-# FuelConsumptionPrediction
-Based on Simple Linear Regression, System can predict CO2 EMISSIONS.
+# fuel consumption prediction
+Based on simple linear regression, System can predict CO2 emissions.
